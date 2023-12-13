@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NSJ6/g3b7DIHw6ZF1/SfQsJMyr89QqYG9IVM2NqlQBjyQuK+Pn+b1znEfYv0PgdCVjJiBNs5wqO/pI/6y0JRPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eanett\\source\\repos\\vsapp150\\WebApplication150\\WebApplication150\\WebApplication150.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eanett\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
